@@ -1,2 +1,0 @@
-Title: Git for Evreyone
-SubTitle: Hello How are you
