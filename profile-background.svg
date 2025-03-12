@@ -1,0 +1,13 @@
+<svg width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#C4DEF8"/>
+  
+  <!-- Welcome 텍스트 (크게 표시) -->
+  <text x="50%" y="50" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="36" font-family="Arial" font-weight="bold">
+    Welcome
+  </text>
+  
+  <!-- Son MinSeock Github Profile (작게 표시) -->
+  <text x="50%" y="100" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="16" font-family="Arial">
+    Son MinSeock Github Profile
+  </text>
+</svg>
